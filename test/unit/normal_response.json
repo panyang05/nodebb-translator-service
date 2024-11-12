@@ -1,0 +1,193 @@
+{
+    "normal_response": [
+        {
+            "post": "Hier ist dein erstes Beispiel.",
+            "expected_answer": {
+                "is_english": false, 
+                "translated_content": "This is your first example."
+            }
+        },
+        {
+            "post": "Good morning, everyone!",
+            "expected_answer": {
+                "is_english": true,
+                "translated_content": ""
+            }
+        },
+        {
+            "post": "I'm looking forward to our meeting tomorrow.",
+            "expected_answer": {
+                "is_english": true,
+                "translated_content": ""
+            }
+        },
+        {
+            "post": "今天的天气很好。",
+            "expected_answer": {
+                "is_english": false,
+                "translated_content": "The weather is great today."
+            }
+        },
+        {
+            "post": "Je suis très content d'être ici.",
+            "expected_answer": {
+                "is_english": false,
+                "translated_content": "I am very happy to be here."
+            }
+        },
+        {
+            "post": "This project has been very rewarding.",
+            "expected_answer": {
+                "is_english": true,
+                "translated_content": ""
+            }
+        },
+        {
+            "post": "La comida aquí es deliciosa.",
+            "expected_answer": {
+                "is_english": false,
+                "translated_content": "The food here is delicious."
+            }
+        },
+        {
+            "post": "Ich habe heute viel Arbeit.",
+            "expected_answer": {
+                "is_english": false,
+                "translated_content": "I have a lot of work today."
+            }
+        },
+        {
+            "post": "The results will be announced soon.",
+            "expected_answer": {
+                "is_english": true,
+                "translated_content": ""
+            }
+        },
+        {
+            "post": "Hola a todos, ¿cómo están?",
+            "expected_answer": {
+                "is_english": false,
+                "translated_content": "Hello everyone, how are you?"
+            }
+        },
+        {
+            "post": "C'est une journée magnifique.",
+            "expected_answer": {
+                "is_english": false,
+                "translated_content": "It's a beautiful day."
+            }
+        },
+        {
+            "post": "All set for the weekend!",
+            "expected_answer": {
+                "is_english": true,
+                "translated_content": ""
+            }
+        },
+        {
+            "post": "明天见！",
+            "expected_answer": {
+                "is_english": false,
+                "translated_content": "See you tomorrow!"
+            }
+        },
+        {
+            "post": "오늘은 정말 피곤해요.",
+            "expected_answer": {
+                "is_english": false,
+                "translated_content": "I'm really tired today."
+            }
+        },
+        {
+            "post": "Estou muito animado para o evento.",
+            "expected_answer": {
+                "is_english": false,
+                "translated_content": "I am very excited for the event."
+            }
+        },
+        {
+            "post": "Here's a new idea we could try.",
+            "expected_answer": {
+                "is_english": true,
+                "translated_content": ""
+            }
+        },
+        {
+            "post": "Is everyone ready for the presentation?",
+            "expected_answer": {
+                "is_english": true,
+                "translated_content": ""
+            }
+        },
+        {
+            "post": "Un café, s'il vous plaît.",
+            "expected_answer": {
+                "is_english": false,
+                "translated_content": "A coffee, please."
+            }
+        },
+        {
+            "post": "随便吃吧！",
+            "expected_answer": {
+                "is_english": false,
+                "translated_content": "Help yourself!"
+            }
+        },
+        {
+            "post": "야호! 새로운 시작입니다.",
+            "expected_answer": {
+                "is_english": false,
+                "translated_content": "Yay! It's a new start."
+            }
+        },
+        {
+            "post": "Looking forward to the trip!",
+            "expected_answer": {
+                "is_english": true,
+                "translated_content": ""
+            }
+        },
+        {
+            "post": "123 hello world",
+            "expected_answer": {
+                "is_english": true,
+                "translated_content": ""
+            }
+        },
+        {
+            "post": "Ahora entiendo el problema.",
+            "expected_answer": {
+                "is_english": false,
+                "translated_content": "Now I understand the problem."
+            }
+        },
+        {
+            "post": "今晚一起吃饭吗？",
+            "expected_answer": {
+                "is_english": false,
+                "translated_content": "Shall we have dinner together tonight?"
+            }
+        },
+        {
+            "post": "Loving the new design updates!",
+            "expected_answer": {
+                "is_english": true,
+                "translated_content": ""
+            }
+        },
+        {
+            "post": "今日はいい日ですね。",
+            "expected_answer": {
+                "is_english": false,
+                "translated_content": "It's a good day today."
+            }
+        },
+        {
+            "post": "I've completed the assignment.",
+            "expected_answer": {
+                "is_english": true,
+                "translated_content": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "gibberish_response": [
+        {
+            "post": "123f?!!!@ not clear...",
+            "expected_answer": {
+                "is_english": false,
+                "translated_content": "Unintelligible post"
+            }
+        },
+        {
+            "post": "dfjkwjerofjsdlk",
+            "expected_answer": {
+                "is_english": false,
+                "translated_content": "Unintelligible post"
+            }
+        },
+        {
+            "post": "!#@&^* some random text...",
+            "expected_answer": {
+                "is_english": false,
+                "translated_content": "Unintelligible post"
+            }
+        },
+        {
+            "post": "lksjdflkj please clarify",
+            "expected_answer": {
+                "is_english": false,
+                "translated_content": "Unintelligible post"
+            }
+        },
+        {
+            "post": "dsagfsdsahihihi",
+            "expected_answer": {
+                "is_english": false,
+                "translated_content": "Unintelligible post"
+            }
+        }
+    ]
+}

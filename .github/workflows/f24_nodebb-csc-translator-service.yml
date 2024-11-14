@@ -36,6 +36,7 @@ jobs:
       
       - name: Test with pytest
         run: |
+          export AZURE_API_KEY=${{ secrets.AZURE_API_KEY }}
           pytest
 
       - name: Upload artifact for deployment jobs
